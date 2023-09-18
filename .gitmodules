@@ -1,0 +1,3 @@
+[submodule "module"]
+	path = module
+	url = https://github.com/bagih/debian-server-tool.git
