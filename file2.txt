@@ -2,3 +2,4 @@ ini adalah file 2
 ini juga ada tambahan
 feature/2
 feature/a
+feature/c
