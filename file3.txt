@@ -2,3 +2,4 @@ ini adalah file 3
 penambahan isi file nih
 feature/3
 feature/b
+feature/c
