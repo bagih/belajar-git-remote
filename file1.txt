@@ -6,3 +6,4 @@ feature/b
 feature/c
 main
 main
+feature/merge-squash
